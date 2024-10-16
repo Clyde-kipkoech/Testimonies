@@ -1,0 +1,37 @@
+[
+    {
+        "image":"https://images.pexels.com/photos/4126784/pexels-photo-4126784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "John Doe",
+        "date": "2024-07-01",
+        "role": "Software Engineer",
+        "testimony":"The service I received was outstanding. The team went above and beyond to ensure my satisfaction. I highly recommend them to anyone in need of their services."
+    },
+    {
+        "image": "https://images.pexels.com/photos/2228561/pexels-photo-2228561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Jane Smith",
+        "date": "2024-06-15",
+        "role": "Highly Recommend",
+        "testimony":"This company provided exceptional quality in both product and service. Their attention to detail is second to none, and their customer service is top-notch."
+    },
+    {
+        "image": "https://images.pexels.com/photos/4049672/pexels-photo-4049672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Carlos Martinez",
+        "date": "2024-05-20",
+        "role":"web developer",
+        "testimony": "The product and service went beyond my expectations. They were timely, professional, and the quality was superb. I will definitely be a returning customer."
+    },
+    {
+        "image": "https://images.pexels.com/photos/4132436/pexels-photo-4132436.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Emily Johnson",
+        "date": "2024-07-10",
+        "role": "Fantastic Experience",
+        "testimony": "From the initial consultation to the final delivery, the experience was flawless. The team was professional, responsive, and the results were fantastic."
+    },
+    {
+        "image": "https://images.pexels.com/photos/1193942/pexels-photo-1193942.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Akira Tanaka",
+        "date": "2024-06-25",
+        "role": "web developer",
+        "testimony":"From the initial consultation to the final delivery, the experience was flawless. The team was professional, responsive, and the results were fantastic."
+    }
+]

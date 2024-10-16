@@ -1,0 +1,23 @@
+[
+    {
+        "image" : "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name" : "Harry",
+        "Course" : "Diploma in software Engineering",
+        "email" : "clyde123@gmail.com",
+        "phone" : "0712345678"
+    },
+    {
+        "image" : "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name" : "Mrs. Ngeno",
+        "Course":"Diploma in software Engineering",
+        "email": "clyde123@gmail.com",
+        "phone": "0712345678"
+    },
+    {
+        "image" : "https://images.pexels.com/photos/4126738/pexels-photo-4126738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name" : "Jane",
+        "Course": "Diploma in web development",
+        "email": "jane123@gmail.com",
+        "phone": "0787654321"
+    }
+]
